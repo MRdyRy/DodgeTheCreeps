@@ -4,6 +4,9 @@
 
 This repository contains the source code for "Dodge The Creeps," a simple 2D survival game built with the Godot Engine. The objective is to navigate your character and survive for as long as possible by dodging the enemies that spawn from the edges of the screen.
 
+## Play :
+https://mrdyry.github.io/DodgeTheCreeps/
+
 ## Gameplay
 
 - Control the player character using the arrow keys.
@@ -59,3 +62,5 @@ To run this game, you will need the Godot Engine (version 4.x).
     -   Background Music: `House In a Forest Loop.ogg`
     -   Sound Effect: `gameover.wav`
 -   **Font:** The game uses the **Xolonium** font, which is licensed under the SIL Open Font License, Version 1.1. See `fonts/LICENSE.txt` for more details.
+
+
